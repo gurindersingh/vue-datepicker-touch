@@ -1,12 +1,12 @@
 <p align="left">
-  <img src="https://github.com/gurindersingh/vue-datepicker/blob/master/static/assets/logo.png" width="150"/>
+  <img src="https://github.com/gurindersingh/vue-datepicker-touch/blob/master/static/assets/logo.png" width="150"/>
 </p> 
 
 # Vue.js Datepicker
 > Bootstrap compatible (v3.3.7) & Touch enabled - Vue.js Datepicker 
 
 <p align="left">
-  <img src="https://github.com/gurindersingh/vue-datepicker/blob/master/static/assets/screen_1.jpeg" width="300"/>
+  <img src="https://github.com/gurindersingh/vue-datepicker-touch/blob/master/static/assets/screen_1.jpeg" width="300"/>
 </p>
 
 ## Requirements
